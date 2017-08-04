@@ -1,6 +1,4 @@
 | RoleList| Supported          |
 | ------- | ------------------ |
-| admin   | :x:                |
-| mod     | :x:                |
-| user    | :white_check_mark: |
-| MAdmin  | :x:                |
+| hensem  | :white_check_mark: |
+| nrhsnsn | :x:                |
