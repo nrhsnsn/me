@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<a href="https://nrhsnsn.github.io">
-  <img src="https://img.shields.io/badge/🔴🔵🟡%20nrhsnsn.github.io-Click%20Me%20Now-black?style=for-the-badge" />
+<a href="https://github.com/nrhsnsn">
+  <img src="https://img.shields.io/badge/NRHSNSN-black?style=for-the-badge" />
 </a>
 
 </div>
